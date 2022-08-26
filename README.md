@@ -1,1 +1,1 @@
-# smpldevsnotebook.github.io
+# smpldevsnotebook
